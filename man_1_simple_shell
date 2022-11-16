@@ -1,8 +1,8 @@
-.TH SIMPLE_SHELL "1" "November 28, 2019" "Simple Shell Manual Page"
+.TH SIMPLE_SHELL "1" "November 14, 2022" "Simple Shell Manual Page"
 
 .SH NAME
 .B lsh 
--Simple shell implementation of command line - Holberton Project
+-Simple shell implementation of command line - ALX Project
 .PP
 
 .SH SYNOPSIS
@@ -70,4 +70,4 @@ sh(1)
 No known bugs. Please contact any of the authors if a bug appears.
 
 .SH AUTHORS
-Nfon Andrew Tatah <nfonandrew73@gmail.com>
+Francis John <chimex61@gmail.com>
