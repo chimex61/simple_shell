@@ -1,8 +1,8 @@
-# [0x16. C - Simple Shell](https://github.com/leulyk/simple_shell) - (Not fully implemented)
+ Simple Shell](https://github.com/chimex61/simple_shell)
 
 A simple unix command interpreter built as a project for the ALX software engineering program.
 
-## Learning Objectives
+## Objectives
 
 At the end of this project, you are expected to be able to explain to anyone:
 
@@ -273,8 +273,9 @@ At the end of this project, you are expected to be able to explain to anyone:
 		- The file should contain one command per line
 		- In this mode, the shell should not print a prompt and should not read from stdin
 
-## Author
+## Authors
 
-<a href="https://linkedin.com/in/leul-yiheyis-a165a394" target="blank">Leul Yiheyis</a>
 
-<a href="https://github.com/PeterSimiyu" target="blank">Peter Simiyu</a>
+<a href="https://github.com/chmex61" target="blank">Francis John</a>
+
+<a href="#" target="blank">Tope Adebayo</a>
